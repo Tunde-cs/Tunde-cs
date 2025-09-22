@@ -10,9 +10,20 @@
 - **DevOps:** GitHub Actions, Jenkins, Prometheus, IaC, SRE
 
 ### 📈 Certifications
+- [AWS Certified DevOps Engineer – Professional](#) – Amazon Web Services (Issued July 2025)
 - [AWS Cloud Fundamentals](#)
-- [GitHub Actions CI/CD](#)
+- [GitHub Actions CI/CD Fundamentals](#)
+- [Pretraining Large Language Models (LLMs) – DeepLearning.AI](#)
+- [ChatGPT Prompt Engineering – DeepLearning.AI](#)
+- [Monitoring & Logging with AWS CloudWatch & ELK Stack](#)
+- [Terraform Infrastructure as Code (Project-based)](#)
+- [Customer Service with Python: Build a Chatbot – Coursera](#)
 - [Google AI Essentials](#)
+- [Google Network Security, Cybersecurity Foundations](#)
+- [Digital Marketing & E-commerce – Google](#)
+- [Introduction to Software Engineering – IBM](#)
+- [Jira Fundamentals – Coursera](#)
+
 
 ### 📂 Portfolio Projects
 - [🔬 AI Cancer Screening Platform](https://github.com/Tunde-cs/ai_cancer_screening)
