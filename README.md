@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Babatunde Oshodi
 
-🚀 Cloud Infrastructure Engineer | DevOps | AI/ML | SaaS Platforms | Terraform | Software Developer  
+🚀 Cloud Infrastructure Engineer | DevOps | AI/ML | AWS CDK | Terraform | Software Developer  
 📍 Atlanta, GA | 📫 [tunde@hotengroup.com](mailto:tunde@hotengroup.com)
 
 ### 🔧 Skills & Tools
