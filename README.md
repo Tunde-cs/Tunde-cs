@@ -5,7 +5,7 @@
 
 ### 🔧 Skills & Tools
 - **Cloud:** AWS (EC2, S3, IAM), GCP, Terraform, Kubernetes, Docker
-- **Languages:** Python, Golang, JavaScript, Bash, Ruby on Rails
+- **Languages:** Python, Golang, Typescript, JavaScript, Bash, Ruby on Rails
 - **AI/ML:** OpenAI, TensorFlow, Prompt Engineering
 - **DevOps:** GitHub Actions, Jenkins, Prometheus, IaC, SRE
 
